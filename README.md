@@ -22,7 +22,7 @@
   <p>Wij nemen redelijke maatregelen om gegevens te beveiligen, in overeenstemming met de vereisten van Meta's platformbeleid.</p>
 
   <h2>4. Contact</h2>
-  <p>Voor vragen over dit privacybeleid kunt u contact opnemen via e-mail: <a href="mailto:jouw@email.com">jouw@email.com</a></p>
+  <p>Voor vragen over dit privacybeleid kunt u contact opnemen via e-mail: <a href="mailto:sleepytraderai@outlook.com">jouw@email.com</a></p>
 
   <h2>5. Wijzigingen</h2>
   <p>We behouden ons het recht voor om dit beleid bij te werken. Bij wijzigingen wordt de laatste update bovenaan dit document weergegeven.</p>
